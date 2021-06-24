@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pollux Barbershop
+title: Pollux Barbershopss
 published: true
 ---
 ## POLLUX
